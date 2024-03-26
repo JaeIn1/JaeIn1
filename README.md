@@ -1,4 +1,8 @@
-### Hi there 👋
+### 🧑🏻‍💻 About Me
+안녕하세요 꾸준히 성장하고 있는 개발자 이재인입니다👋<br>
+좋은 프로젝트는 팀원들과의 적극적인 소통에서 나온다고 생각합니다. <br>
+팀원들과 함께 성장하기 위해 같이 노력하는 것을 좋아합니다👏
+
 
 ### 🙏 Skiils
 <div>
@@ -10,6 +14,11 @@
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </div>
+
+### 🎯 Languages
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeIn1&layout=compact"/>
+
+### 🚀 Skiils state
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=JaeIn1&show_icons=true&theme=dark"
@@ -21,5 +30,12 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=JaeIn1&show_icons=true" />
 </picture>
+
+### 💻 Education
+* 신한투자증권 프로디지털아카데미 - Cloud & Web Full Stack (2024.03 ~ )
+* 강남대학교 - 소프트웨어응용학부 (2018.03 ~ 2024.02)
+### 🐼 Project
+* [OutMeeting - 회의실 예약 웹 사이트 - 팀 프로젝트](https://github.com/self-directed-project)
+* [가지마켓 - 중고마켓 반응형 웹 사이트 - 개인 프로젝트](https://github.com/JaeIn1/frontend-portfolio)
 
 
