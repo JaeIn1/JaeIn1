@@ -1,8 +1,13 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Welcome&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20JaeIn%20GitHub)
+
 ### 🧑🏻‍💻 About Me
 안녕하세요 꾸준히 성장하고 있는 개발자 이재인입니다👋<br>
 좋은 프로젝트는 팀원들과의 적극적인 소통에서 나온다고 생각합니다. <br>
 팀원들과 함께 성장하기 위해 같이 노력하는 것을 좋아합니다👏
 
+<div>
+  
+</div>
 
 ### 🙏 Skiils
 <div>
@@ -34,6 +39,7 @@
 ### 💻 Education
 * 신한투자증권 프로디지털아카데미 - Cloud & Web Full Stack (2024.03 ~ )
 * 강남대학교 - 소프트웨어응용학부 (2018.03 ~ 2024.02)
+
 ### 🐼 Project
 * [CheatSOL - 소셜 미디어 및 검색 엔진 데이터 분석을 통한 기업 종목 추천 웹사이트 - 팀 프로젝트](https://github.com/CheatSOL)
 * [OutMeeting - 회의실 예약 웹 사이트 - 팀 프로젝트](https://github.com/self-directed-project)
