@@ -34,7 +34,7 @@
 </picture>
 
 ### 💻 Education
-* 신한투자증권 프로디지털아카데미 - Cloud & Web Full Stack (2024.03 ~ )
+* 신한투자증권 프로디지털아카데미 - Cloud & Web Full Stack (2024.03 ~ 2024.09)
 * 강남대학교 - 소프트웨어응용학부 (2018.03 ~ 2024.02)
 
 ### 🐼 Project
