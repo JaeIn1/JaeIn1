@@ -39,6 +39,7 @@
 
 ### 🐼 Project
 * [CheatSOL - 소셜 미디어 및 검색 엔진 데이터 분석을 통한 기업 종목 추천 웹사이트 - 팀 프로젝트](https://github.com/CheatSOL)
+* [아마곗돈 - 모임투자 서비스 - 팀 프로젝트](https://github.com/PDA-ARMAGYETDON)
 * [OutMeeting - 회의실 예약 웹 사이트 - 팀 프로젝트](https://github.com/self-directed-project)
 * [가지마켓 - 중고마켓 반응형 웹 사이트 - 개인 프로젝트](https://github.com/JaeIn1/frontend-portfolio)
 
