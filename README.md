@@ -11,9 +11,12 @@
 
 ### 🙏 Skiils
 <div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+  
 
 </div>
 
@@ -38,10 +41,14 @@
 * 강남대학교 - 소프트웨어응용학부 (2018.03 ~ 2024.02)
 
 ### 🐼 Project
-* [CheatSOL - 소셜 미디어 및 검색 엔진 데이터 분석을 통한 기업 종목 추천 웹사이트 - 팀 프로젝트](https://github.com/CheatSOL)
-* [아마곗돈 - 모임투자 서비스 - 팀 프로젝트](https://github.com/PDA-ARMAGYETDON)
-* [OutMeeting - 회의실 예약 웹 사이트 - 팀 프로젝트](https://github.com/self-directed-project)
-* [가지마켓 - 중고마켓 반응형 웹 사이트 - 개인 프로젝트](https://github.com/JaeIn1/frontend-portfolio)
+
+| 프로젝트 이름         | 설명                                             | 유형         | 링크                                                     |
+| --------------------- | ------------------------------------------------ | ------------ | -------------------------------------------------------- |
+| CheatSOL             | 검색어 기반 AI 종목 추천 서비스 | 팀 프로젝트  | [CheatSOL](https://github.com/CheatSOL)                 |
+| 아마곗돈              | 모임투자 서비스                                   | 팀 프로젝트  | [아마곗돈](https://github.com/PDA-ARMAGYETDON)          |
+| OutMeeting           | 회의실 예약 웹 사이트                              | 팀 프로젝트  | [OutMeeting](https://github.com/self-directed-project)  |
+| 가지마켓              | 중고마켓 반응형 웹 사이트                          | 개인 프로젝트 | [가지마켓](https://github.com/JaeIn1/frontend-portfolio) |
+
 
 ### 🚀 certificate
 * 정보처리기사
