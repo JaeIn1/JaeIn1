@@ -47,6 +47,7 @@
 
 | 프로젝트 이름         | 설명                                             | 유형         | 링크                                                     |
 | --------------------- | ------------------------------------------------ | ------------ | -------------------------------------------------------- |
+| Balearn            | 스터디그룹 관리 서비스 | 팀 프로젝트  | [Balearn](https://github.com/Jibsa-team)                 |
 | CheatSOL             | 검색어 기반 AI 종목 추천 서비스 | 팀 프로젝트  | [CheatSOL](https://github.com/CheatSOL)                 |
 | 아마곗돈              | 모임투자 서비스                                   | 팀 프로젝트  | [아마곗돈](https://github.com/PDA-ARMAGYETDON)          |
 | OutMeeting           | 회의실 예약 웹 사이트                              | 팀 프로젝트  | [OutMeeting](https://github.com/self-directed-project)  |
