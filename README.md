@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Welcome&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20JaeIn%20GitHub)
 
 ### 🧑🏻‍💻 About Me
-안녕하세요 꾸준히 성장하고 있는 개발자 이재인입니다👋<br>
-좋은 프로젝트는 팀원들과의 적극적인 소통에서 나온다고 생각합니다. <br>
-팀원들과 함께 성장하기 위해 같이 노력하는 것을 좋아합니다👏
+저는 '함께 성장'을 무엇보다 중요하게 생각합니다.<br/>
+아는 것을 팀원들과 아낌없이 공유하고, 서로의 배움과 성장을 응원하는 분위기 속에서 협업이 이루어진다고 생각합니다. <br/>
+코드 리뷰, 지식 나눔, 열린 소통을 통해 더 나은 기능을 함께 만들어가고, 그 과정에서 저 또한 끊임없이 배우고자 합니다.👏
 
 <div>
   
@@ -39,7 +39,7 @@
 ### 💻 Education
 | **Education**                              | **Date**               |
 |--------------------------------------------|-------------------------|
-| DEPROMEET 16TH | 2025.01 ~      |
+| DEPROMEET 16TH | 2025.01 ~ 2025.04     |
 | 신한투자증권 SW교육 프로디지털아카데미 - Cloud & Web Full Stack | 2024.03 ~ 2024.09      |
 | 강남대학교 - 소프트웨어응용학부               | 2018.03 ~ 2024.02      |
 
