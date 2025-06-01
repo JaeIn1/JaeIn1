@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&section=header&height=300&text=Welcome&fontAlignX=50&fontAlignY=45&color=gradient&fontSize=100&fontColor=ffffff&desc=It's%20JaeIn%20GitHub)
-
 ### 🧑🏻‍💻 About Me
 저는 '함께 성장'을 무엇보다 중요하게 생각합니다.<br/>
 아는 것을 팀원들과 아낌없이 공유하고, 서로의 배움과 성장을 응원하는 분위기 속에서 협업이 이루어진다고 생각합니다. <br/>
@@ -19,9 +17,6 @@
   
 
 </div>
-
-### 🎯 Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaeIn1&layout=compact"/>
 
 ### 🚀 Skiils state
 <picture>
