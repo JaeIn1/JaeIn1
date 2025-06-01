@@ -42,10 +42,10 @@
 
 | 프로젝트 이름         | 설명                                             | 유형         | 링크                                                     |
 | --------------------- | ------------------------------------------------ | ------------ | -------------------------------------------------------- |
+| Layer            | 성장하는 당신을 위한 회고 서비스 | 팀 프로젝트  | [Layer](https://github.com/depromeet/layer)                 |
 | took            | 디지털 명함 공유 서비스 | 팀 프로젝트  | [took](https://github.com/depromeet/Took-FE)                 |
 | Balearn            | 스터디그룹 관리 서비스 | 팀 프로젝트  | [Balearn](https://github.com/Jibsa-team)                 |
 | CheatSOL             | 검색어 기반 AI 종목 추천 서비스 | 팀 프로젝트  | [CheatSOL](https://github.com/CheatSOL)                 |
-| 아마곗돈              | 모임투자 서비스                                   | 팀 프로젝트  | [아마곗돈](https://github.com/PDA-ARMAGYETDON)          |
 | OutMeeting           | 회의실 예약 웹 사이트                              | 팀 프로젝트  | [OutMeeting](https://github.com/self-directed-project)  |
 | 가지마켓              | 중고마켓 반응형 웹 사이트                          | 개인 프로젝트 | [가지마켓](https://github.com/JaeIn1/frontend-portfolio) |
 
