@@ -18,23 +18,10 @@
 
 </div>
 
-### 🚀 Skiils state
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JaeIn1&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=JaeIn1&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=JaeIn1&show_icons=true" />
-</picture>
-
 ### 💻 Education
 | **Education**                              | **Date**               |
 |--------------------------------------------|-------------------------|
-| DEPROMEET 16TH | 2025.01 ~ 2025.04     |
+| 디프만 16기 | 2025.01 ~ 2025.04     |
 | 신한투자증권 SW교육 프로디지털아카데미 - Cloud & Web Full Stack | 2024.03 ~ 2024.09      |
 | 강남대학교 - 소프트웨어응용학부               | 2018.03 ~ 2024.02      |
 
