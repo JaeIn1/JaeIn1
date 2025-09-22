@@ -32,8 +32,6 @@
 | took            | 디지털 명함 공유 서비스 | 팀 프로젝트  | [took](https://github.com/depromeet/Took-FE)                 |
 | Balearn            | 스터디그룹 관리 서비스 | 팀 프로젝트  | [Balearn](https://github.com/Jibsa-team)                 |
 | CheatSOL             | 검색어 기반 AI 종목 추천 서비스 | 팀 프로젝트  | [CheatSOL](https://github.com/CheatSOL)                 |
-| OutMeeting           | 회의실 예약 웹 사이트                              | 팀 프로젝트  | [OutMeeting](https://github.com/self-directed-project)  |
-| 가지마켓              | 중고마켓 반응형 웹 사이트                          | 개인 프로젝트 | [가지마켓](https://github.com/JaeIn1/frontend-portfolio) |
 
 
 ## Certificate
