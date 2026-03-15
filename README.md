@@ -13,7 +13,8 @@
 
 
 ## Career
-[엔테크서비스](https://www.nts-corp.com/) UI개발 인턴 (2025.07 ~ 2025.08)
+[펑타이그레이터차이나](https://pt-korea.com/) 퍼블리싱 개발팀 인턴(2025.12 ~ 진행중) 
+[엔테크서비스](https://www.nts-corp.com/) UIT개발팀 인턴 (2025.07 ~ 2025.08)
 
 
 ## Education
