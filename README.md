@@ -1,20 +1,8 @@
-## 🧑🏻‍💻 About Me
-저는 '함께 성장'을 무엇보다 중요하게 생각합니다.<br/>
-아는 것을 팀원들과 아낌없이 공유하고, 서로의 배움과 성장을 응원하는 분위기 속에서 협업이 이루어진다고 생각합니다. <br/>
-코드 리뷰, 지식 나눔, 열린 소통을 통해 더 나은 기능을 함께 만들어가고, 그 과정에서 저 또한 끊임없이 배우고자 합니다.👏
-
-## Skiils
-<div>
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-</div>
-
+### Frontend Developer
 
 ## Career
-[펑타이그레이터차이나](https://pt-korea.com/) 퍼블리싱 개발팀 인턴(2025.12 ~ 진행중) <br>
-[엔테크서비스](https://www.nts-corp.com/) UIT개발팀 인턴 (2025.07 ~ 2025.08)
+[PTKOREA](https://pt-korea.com/) Publishing Intern(2025.12 ~ 진행중) <br>
+[엔테크서비스](https://www.nts-corp.com/) Publishing Intern (2025.07 ~ 2025.08)
 
 
 ## Education
