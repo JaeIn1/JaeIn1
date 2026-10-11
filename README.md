@@ -1,8 +1,8 @@
 ### Frontend Developer
 
 #### 경력
-[PTKOREA](https://pt-korea.com/) Publishing Intern(2025.12 ~ 2026.09) <br>
-[N Tech Service](https://www.nts-corp.com/) Publishing Intern (2025.07 ~ 2025.08)
+[PTKOREA](https://pt-korea.com/) Publisher Intern (2025.12 ~ 2026.09) <br>
+[N Tech Service](https://www.nts-corp.com/) Publisher Intern (2025.07 ~ 2025.08)
 
 #### 동아리
 - 넥스터즈 29기 | 2026.07 ~ 2026.08
