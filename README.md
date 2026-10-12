@@ -1,6 +1,7 @@
 ### Frontend Developer
 
 #### 경력
+[ARA(RChat)](https://www.rchat.co.kr/) Frontend Developer (2026.10 ~) <br>
 [PTKOREA](https://pt-korea.com/) Publisher Intern (2025.12 ~ 2026.09) <br>
 [N Tech Service](https://www.nts-corp.com/) Publisher Intern (2025.07 ~ 2025.08)
 
